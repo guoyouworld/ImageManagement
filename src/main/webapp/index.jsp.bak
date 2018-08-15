@@ -1,0 +1,14 @@
+<!-- <html>
+<script src="js/imagetracer_v1.2.1.js"></script>
+<script type="text/javascript">
+ImageTracer.imageToSVG(
+	    'images/bb.bmp',
+	    function(svgstr){ ImageTracer.appendSVGString( svgstr, 'iconsvg' ); },
+	    { ltres:0.1, qtres:0.1, scale:10, strokewidth:0, numberofcolors: 256 }
+	);
+</script>
+<body>
+<img src="images/bb.bmp">
+<span id="iconsvg"></span>
+</body>
+</html> -->
